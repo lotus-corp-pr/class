@@ -1,3 +1,9 @@
+## ‼️ DISCLAIMER
+The site is no longer being maintained. The site and existing games will continue to function, but do not expect new games and new features to be added. 
+If you're interested in a truly unblockable (for the most part) site that works for most games on here, check out (https://github.com/MonkeyGG2/MonkeyGG0)[MonkeyGG0]. Yes, that isn't maintained either, but it still works as long as you can open an html file.
+
+Original README below...
+
 <p align="center"><img src="https://raw.githubusercontent.com/MonkeyGG2/monkeygg2.github.io/main/imgs/icon-256-256.png" height="200"></p>
 
 <div align="center">
